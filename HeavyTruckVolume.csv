@@ -1,4 +1,4 @@
-Week,Date,Baseline,I-10 at Litchfield Rd,I-10 at WildHorse Pass,I-17 at Happy Valley Rd,Arizona Ave at Elliot Rd,Loop 202 at Hawes Rd,Grand Ave at Dysart Rd,Grand Ave at 75th Ave,Loop202 SM at Baseline Rd,Loop 101 at 56th St,Total
+Week,Date,Baseline,LitchfieldRd,WildHorsePass,HappyValleyRd,ElliotRd,HawesRd,DysartRd,Ave75,BaselineRd,St56,Total
 "Week 1, March 2nd to March 6th",3/2/2020,1,1,1,1,1,1,1,1,1,1,1
 "Week 2, March 9th to March 13th",3/9/2020,1,0.949459585,0.976941851,0.923564189,0.769520935,0.578153995,0.765358362,0.885087719,0.9829105,0.614552786,0.883816444
 "Week 3, March 16th to March 20th",3/16/2020,1,1.030371343,1.07258794,0.992417417,0.8434553,0.614468838,0.841638225,0.946666667,0.980878553,0.982679619,0.965903805
