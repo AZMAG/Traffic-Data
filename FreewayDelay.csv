@@ -1,4 +1,4 @@
-Day,Date,Baseline,Compare to Normal,5-Day Average Compare to Normal
+Day,Date,Baseline,Comparison,Avg5Day
 "Monday, March 2, 2020",3/2/2020,1,0.86036,1
 "Tuesday, March 3, 2020",3/3/2020,1,1.0113,1
 "Wednesday, March 4, 2020",3/4/2020,1,1.01271,1
